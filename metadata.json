@@ -1,0 +1,6 @@
+{
+  "name": "Generator LKPD Kurikulum Merdeka",
+  "description": "Aplikasi Generator LKPD Interaktif Kurikulum Merdeka berbasis AI, dilengkapi Modul Ajar dan Soal HOTS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
